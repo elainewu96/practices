@@ -33,6 +33,7 @@ def run():
             send = input('Enter the name of the sender: ')
             receive = input('Enter the name of the receiver: ')
             amount = int(input('Enter amount: '))
+        # occurs when the amount transferred is not an integer
         except:
             send = 'Person A'
             receive = 'Person B'
