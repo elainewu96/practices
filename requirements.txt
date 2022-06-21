@@ -10,7 +10,7 @@ hyperframe==5.1.0
 idna==2.7
 mock==2.0.0
 multidict==4.4.0
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 pbr==4.2.0
 protobuf==3.6.1
